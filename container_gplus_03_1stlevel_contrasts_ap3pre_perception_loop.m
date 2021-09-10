@@ -34,7 +34,7 @@
 % it is important to always run analyses on the same server and with the 
 ...same matlab/spm version earlier subjects were run with!!
 
-% server: mri008
+% server: mri043
 %
 % matlab: MATLAB 9.2.0 (R2017a)
 %
