@@ -12,12 +12,12 @@
 % This script performs 1st level contrasts
 ... of a single subject using the SPM12 jobman utilities. 
 ... contrasts are:
-    ... 1) SG abs
-    ... 2) S abs
-    ... 3) G abs
-    ... 4) SG con
-    ... 5) S con
-    ... 6) G con 
+    ... 1) abs SG
+    ... 2) abs S
+    ... 3) abs G
+    ... 4) con SG
+    ... 5) con S
+    ... 6) con G 
 ... it creates contrast files for analysing purposes.
 ... Data where preprocessed with fMRIPrep
 ... and are provided in BIDS standardized format.
